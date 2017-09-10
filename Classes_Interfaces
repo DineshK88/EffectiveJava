@@ -1,1 +1,6 @@
-Item # 1 : Minimize the accessibility of classes and members.
+Item #1 : Minimize the accessibility of classes and members.
+  Item #1.1: Minimize the accessibility from the lowest to higher.
+  Item #1.2: Less dependent code
+  Item #1.3: Makes use of Inner classe, If Single super-sub class.
+  
+Item # 2: In public classes, use accessor methods, not public fields.
